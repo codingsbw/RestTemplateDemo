@@ -1,4 +1,4 @@
-# restTemplateDemo
+# RestTemplateDemo
 关于RestTemplate的简单Demo  
 更进一步的学习可以参考一下博客  
 （1）https://juejin.im/post/5b717eab6fb9a0096e21cc24  
